@@ -1,0 +1,7 @@
+hello this is working direcrtory
+
+now this will in staging area .........
+
+
+
+this is for diff between b1 and main
